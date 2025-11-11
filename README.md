@@ -2,7 +2,7 @@
 
 Your intelligent AI Career Software Advisor powered by GPT-5 and RAG (Retrieval-Augmented Generation) technology. Get personalized guidance for your software development career path, technical skills, and industry insights.
 
-![AI Career Advisor](path/to/your/screenshot.png)
+![AI Career Advisor](https://raw.githubusercontent.com/kevinhectorngetich/Career-Advisor-AI/main/career-advisor.png)
 
 ## ✨ Features
 
