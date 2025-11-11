@@ -1,0 +1,6 @@
+openai
+python-dotenv
+streamlit
+
+# library for images
+pillow
